@@ -1,0 +1,20 @@
+{
+  "total_words": 41,
+  "divine_words": 23,
+  "prime_words": 8,
+  "categories": {
+    "ancient": 41
+  },
+  "patterns": {
+    "prime": 8,
+    "composite": 32,
+    "prime_power": 1
+  },
+  "gematria_min": 11,
+  "gematria_max": 581,
+  "alphabet_size": 22,
+  "language": "Biblical Aramaic",
+  "script": "Imperial Aramaic / Square Script",
+  "era": "900 BCE - present",
+  "family": "Semitic"
+}
